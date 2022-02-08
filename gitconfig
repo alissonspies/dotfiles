@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alisson@qrti.com.br
+	name = alisson spies
